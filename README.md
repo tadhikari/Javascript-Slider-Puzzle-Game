@@ -6,4 +6,4 @@ The player has options to select from few puzzle images. Basically, every tile h
 
 When index.html loads, the code selects a random folder from the resources folder and loads the puzzle. player has the option to select his desired puzzle. The player can also enable help if they want to. By enabling help, every tile will be assigned a number. The number is the order the tile should be arranged to win the game.
 
-I have uploaded some snippets of the game in the repository. Please feel free to modify this game and upgrade it. If you have any suggestions or comments, email if at: gta1@sting.graceland.edu
+I have uploaded some snippets of the game in the repository. Please feel free to modify this game and upgrade it. If you have any suggestions or comments, email me at: gta1@sting.graceland.edu
