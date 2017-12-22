@@ -8,6 +8,6 @@ When index.html loads, the code selects a random folder from the resources folde
 
 I have uploaded some snippets of the game in the repository. Please feel free to modify this game and upgrade it. If you have any suggestions or comments, email me at: gta1@sting.graceland.edu
 
-You can play the game here: http://alt.graceland.edu/~gta1/Slider/
+You can play the game here: http://alt.graceland.edu/~gta1/Slider/ (This game is "Mobile-Firendly")
 
 I am currently working on an AI that will solve this game, I will be updating this game after I am done.
